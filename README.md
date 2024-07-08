@@ -2,7 +2,7 @@
 
 This is a simple to-do list application built with React and TypeScript. It allows users to add, complete, and delete tasks.
 
-Check out the live demo of the application [here](https://your-live-demo-link).
+Check out the live demo of the application [here](https://simple-to-do-list-xi.vercel.app/).
 
 ## Features
 
